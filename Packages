@@ -2,13 +2,13 @@ Package: com.iJanPhone.iPower
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iJanPhone
-Depends: Anemone
 Filename: ./debs/com.ijanphone.ipower_1.0_iphoneos-arm.deb
-Size: 5130
-MD5sum: d39f55b4d4480e47eb114b4f738c9990
-SHA1: adf84d8a2395c22d8f6b8d1a3e2cfaa0495f07a9
-SHA256: 439c5aedf8db6a099ca95a453bc3bd4b130c3ff8ae5d8e19e17b4687da0eaf09
+Size: 5122
+MD5sum: 879a75dbdf8a031e23f812fb1f3d94db
+SHA1: 97dda01fb811aacf36711a280b9e519272c130e9
+SHA256: 1144c0ae6e14d0f8b00fe5d350fa983d4c87da91703c6cd615b19e18b3df41ed
 Section: Themes
 Description: iPower Theme
 Author: iJanPhone
 Name: iPower
+
