@@ -1,8 +1,8 @@
 Package: com.iJanPhone.iPower
 Name: iPower
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
-Description: iPower Theme
+Description: Theme especially designed for iPower
 Maintainer: iJanPhone
-Author: iJanPhone
-Section: Themes
+Author: iPower
+Section: iPower
