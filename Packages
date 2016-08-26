@@ -1,0 +1,14 @@
+Package: com.iJanPhone.iPower
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: iJanPhone
+Filename: ./debs/com.ijanphone.ipower_1.2_iphoneos-arm.deb
+Size: 16166
+MD5sum: 17dcd6baa74f4f904391dcd1f58fd7b9
+SHA1: abacd6f1f745611eb0a2a24e32643aed2f9ebe3c
+SHA256: b4a5f7d72ced03dcefbc858ea0824914f7a9b6af89b2d5ed493bbac508d87843
+Section: iPower
+Description: Theme especially designed for iPower
+Author: iPower
+Name: iPower
+
