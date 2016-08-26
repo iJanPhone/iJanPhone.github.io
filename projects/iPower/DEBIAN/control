@@ -1,0 +1,9 @@
+Package: com.iJanPhone.iPower
+Name: iPower
+Version: 1.0
+Depends: Anemone
+Architecture: iphoneos-arm
+Description: iPower Theme
+Maintainer: iJanPhone
+Author: iJanPhone
+Section: Themes
