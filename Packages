@@ -1,17 +1,28 @@
-<<<<<<< HEAD
 Package: com.iJanPhone.iPower
-Version: 1.3
+Version: 1.3.1
 Architecture: iphoneos-arm
 Maintainer: iJanPhone
-Filename: ./debs/com.ijanphone.ipower_1.3_iphoneos-arm.deb
-Size: 104598
-MD5sum: e13fecf53a4d5d02b1df55cb6abb42aa
-SHA1: 3b4239dd65651fb27846f21ba706ecd41164ae52
-SHA256: f855f8307198b140a4d5b5faad2d91aee8e6bc6b0d8650b34c754ff353d741c4
+Filename: ./debs/com.ijanphone.ipower_1.3.1_iphoneos-arm.deb
+Size: 119554
+MD5sum: 5ec2f5f5c8fc856218bc28be94b9d1a1
+SHA1: 489e651822f992aff33e0c0a3e5f28940ae335cd
+SHA256: 6ecd787851cae68e2fbd1380850da436d1962d010a651b821cf12e3b1b3c47ec
 Section: iPower
 Description: Theme especially designed for iPower
 Author: iPower
 Name: iPower
 
-=======
->>>>>>> 29a01c33c89ea6073f71f44c2affdabb7dbcd15d
+Package: com.iJanPhone.iPowerRepoIcons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPower
+Filename: ./debs/com.ijanphone.ipowerrepoicons_1.0_iphoneos-arm.deb
+Size: 4728
+MD5sum: e3b12cfc90c07c8bcca30359289c3b12
+SHA1: d3928ea740fac45a78ddae45d23d02ae4d2c00c6
+SHA256: 64d1ea71a4bf0cf89cd67429bd9f0cd6d87749d373b6710165e77f3674a7f657
+Section: iPower
+Description: iPower Repo Icons
+Author: iPower
+Name: iPower Repo Icons
+
