@@ -1,0 +1,43 @@
+Package: com.iJanPhone.iPower
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: iJanPhone
+Filename: ./debs/com.ijanphone.ipower_1.3.1_iphoneos-arm.deb
+Size: 115934
+MD5sum: 5e98d9e76786268e1e0b0c7fdc24f876
+SHA1: 002a0777f6585f0f587cd9b25db86ef3cd2456a6
+SHA256: 7a0e2280cc5037e839261b8c6a694a09b55a92baab7ed9933d1a0a145ef5ab36
+Section: iPower
+Description: Theme especially designed for iPower
+Author: iPower
+Name: iPower
+
+Package: com.iJanPhone.iPowerLockGlyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPower
+Filename: ./debs/com.ijanphone.ipowerlockglyph_1.0_iphoneos-arm.deb
+Size: 4364
+MD5sum: dd29c5e84bb8c95478294fb918cf7912
+SHA1: 8db8796efe95a4350438db0836ecde9e6ec1812c
+SHA256: 6f927beb15c092f31fe3d0ad3cafc969b285df4613ddba550943faccdb9636dc
+Section: iPower
+Description: Lock Glyph theme for iPower
+Author: iPower
+Name: iPowerLockGlyph
+
+Package: com.iJanPhone.iPowerRepoIcons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPower
+Filename: ./debs/com.ijanphone.ipowerrepoicons_1.0_iphoneos-arm.deb
+Size: 4748
+MD5sum: bee16408f0fa192801c92fcd88fec7a1
+SHA1: dd594bf36e03bbc26a8775058ab167e3e25a7efa
+SHA256: 8f4a953203db9949672a86a84fb9dbf00855cc47e97ff7d1a94b151b47173580
+Section: iPower
+Description: iPower Repo Icons
+Tag: cydia::essential
+Author: iPower
+Name: iPower Repo Icons
+
