@@ -1,6 +1,6 @@
 Package: com.iJanPhone.iPower
 Name: iPower
-Version: 1.5.3
+Version: 1.5.3-TESTING
 Architecture: iphoneos-arm
 Description: Theme especially designed for iPower (includes Zeppelin, BioProtect, LockGlyph, Respring Logo and Loading Indicator Theme)
 Maintainer: iPower
