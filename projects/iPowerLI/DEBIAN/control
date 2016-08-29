@@ -1,0 +1,9 @@
+Package: com.iJanPhone.iPowerLoadingIndicator
+Name: iPower Loading Indicator
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iPower Loading Indicator
+Maintainer: iPower
+Author: iPower
+Section: iPower
+

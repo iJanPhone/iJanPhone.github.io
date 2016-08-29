@@ -3,24 +3,52 @@ Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: iPower
 Filename: ./debs/com.ijanphone.ipower_1.5_iphoneos-arm.deb
-Size: 572686
-MD5sum: af5517880cf8fe958883c7710370bebf
-SHA1: 171fbf6bf81ffaa2c5905a26383c10634612957c
-SHA256: 6a661516b9f08654007cb5cf757b560f3af8041044e7c3199d12cc3a5619b03e
+Size: 331162
+MD5sum: b5034fa6d623e8e0af620f2fd0193b05
+SHA1: ce130c6715c225de567096d5f0a47da28d9f9966
+SHA256: 0f4daed3f1cbed943d11803b2b8844d457dbd2f7170bdd91fd405b4baa9dfb81
 Section: iPower
 Description: Theme especially designed for iPower (includes BioProtect, LockGlyph, Respring Logo and Loading Indicator Theme)
 Author: iPower
 Name: iPower
+
+Package: com.iJanPhone.iPowerLoadingIndicator
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPower
+Filename: ./debs/com.ijanphone.ipowerloadingindicator_1.0_iphoneos-arm.deb
+Size: 239122
+MD5sum: 1aed736debcca8f14c76bd0421fdd880
+SHA1: 7267972d9829545dade2c30ae41cd31596a3fa5b
+SHA256: 9c1d95d6b27cd63862e454cd1e1d42f72d3b946c94bd9a1f3532a3562074e821
+Section: iPower
+Description: iPower Loading Indicator
+Author: iPower
+Name: iPower Loading Indicator
+
+Package: com.iJanPhone.iPowerLockGlyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iPower
+Filename: ./debs/com.ijanphone.ipowerlockglyph_1.0_iphoneos-arm.deb
+Size: 4318
+MD5sum: 33afd3b750e75aefd697dcafaa4c8b17
+SHA1: 78f15530f979ad1148ab87412311db8073464ef3
+SHA256: ac7aba8ad595591bbc1392c267871b32e4ab378f326b40b7ab338b23211d97eb
+Section: iPower
+Description: iPower LockGlyph Theme
+Author: iPower
+Name: iPower LockGlyph
 
 Package: com.iJanPhone.iPowerRepoIcons
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPower
 Filename: ./debs/com.ijanphone.ipowerrepoicons_1.0_iphoneos-arm.deb
-Size: 4756
-MD5sum: 230e693e16aa7649a9eee451d3d66d1e
-SHA1: b8c69e1276d55833f63cc289313361f0c4ef2f14
-SHA256: 743164a86167c7f6c2b4035b748000b40ab276d4a46ddca0b9607833436d1cfb
+Size: 4748
+MD5sum: e4f4577e5af18b0a2f820b0160d6fa6c
+SHA1: 3760ac8202a0642e103e870dbe3f8e44f333ccc6
+SHA256: 34296b426081519b59ec9afe72e19a6bf90a8137744c966e396149ce22f09ac6
 Section: iPower
 Description: iPower Repo Icons
 Tag: cydia::essential
