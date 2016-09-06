@@ -3,10 +3,10 @@ Version: 1.5.4
 Architecture: iphoneos-arm
 Maintainer: iPower
 Filename: ./debs/com.ijanphone.ipower_1.5.4_iphoneos-arm.deb
-Size: 903470
-MD5sum: cfb6adda0108f3a365389f63f075a0a1
-SHA1: 532aa29a91fb5c367cb77c0b35d1e5d042f8ec9b
-SHA256: ae04f5af8a78b9d44e6ed4b83e4357da95922040b5805a4c46caf505f640a941
+Size: 890328
+MD5sum: 07a664828bc7b71cf502633536117ab9
+SHA1: 24258fc744e3442cc72b6f79051bac1be9704c8f
+SHA256: cffc1f9c41851a4e8a208a3626cb9d69229ceca928e4f717ebaf6720af2ab656
 Section: iPower
 Description: Theme especially designed for iPower (includes Zeppelin, BioProtect, LockGlyph, Respring Logo and Loading Indicator Theme)
 Author: iPower
@@ -17,10 +17,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iPower
 Filename: ./debs/com.ijanphone.ipowerrepoicons_1.0_iphoneos-arm.deb
-Size: 4748
-MD5sum: 89f8f9edbef1a260ac1e7f06bbded421
-SHA1: e822774a620d418ab2e37268ddde389c917293f9
-SHA256: e5e3fedf75249842eaaf0786986ce1cc94e5f553486869086a3d5fd4a08ab234
+Size: 4734
+MD5sum: 16de77073b8f6ed73d061d4f74402306
+SHA1: d58f7dda3d47971d8612952fe850d153cb0e1045
+SHA256: 14bb42323c905d3ac662237b9994a1141ca37aa8a92a818743d0202819f1c40a
 Section: iPower
 Description: iPower Repo Icons
 Tag: cydia::essential
